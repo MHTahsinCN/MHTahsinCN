@@ -27,9 +27,9 @@
   <a href="https://www.linkedin.com/in/mhtahsin00/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-</p>
 
-<img src="https://komarev.com/ghpvc/?username=MHTahsinCN&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=MHTahsinCN&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 </div>
 
