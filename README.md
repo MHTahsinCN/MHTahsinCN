@@ -2,18 +2,44 @@
 <!--                      ASCII HEADER                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-```
-███████╗██╗   ██╗ █████╗ ██████╗    
-██╔════╝██║   ██║██╔══██╗██╔══██╗    
-█████╗  ██║   ██║███████║██║  ██║      
-██╔══╝  ██║   ██║██╔══██║██║  ██║     
-██║     ╚██████╔╝██║  ██║██████╔╝   
-╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═════╝   
+<div align="center">
+
+```text
+████████╗ █████╗ ██╗  ██╗███████╗██╗███╗   ██╗
+╚══██╔══╝██╔══██╗██║  ██║██╔════╝██║████╗  ██║
+   ██║   ███████║███████║███████╗██║██╔██╗ ██║
+   ██║   ██╔══██║██╔══██║╚════██║██║██║╚██╗██║
+   ██║   ██║  ██║██║  ██║███████║██║██║ ╚████║
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝
 ```
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED TYPING SVG                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+# 👋 Mohammad Tahsin
+
+### Machine Learning Engineer • AI Developer • Python Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=4F8CFF&center=true&vCenter=true&width=850&lines=Machine+Learning+Engineer;AI+Developer;Python+Developer;Building+Intelligent+Systems;Future+LLM+Engineer;Always+Learning+Always+Building" alt="Typing SVG" />
+
+<p>
+  <a href="https://github.com/MHTahsinCN">
+    <img src="https://img.shields.io/badge/GitHub-MHTahsinCN-181717?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=MHTahsinCN&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
+> **Building Intelligent Systems that Solve Real-World Problems through Machine Learning and Artificial Intelligence.**
 
 <div align="center">
 
