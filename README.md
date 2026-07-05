@@ -13,7 +13,7 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝
 ```
 
-# 👋 Mohammad Tahsin
+# 👋 MH Tahsin
 
 ### Machine Learning Engineer • AI Developer • Python Enthusiast
 
