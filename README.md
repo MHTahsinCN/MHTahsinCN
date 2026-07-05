@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohammad Tahsin
+# 👋 Hi, I'm Tahsin
 
 ### Machine Learning Engineer • AI Developer • Python Enthusiast
 
