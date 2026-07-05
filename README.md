@@ -31,7 +31,7 @@
 
 ## 👋 About Me
 
-I'm a **Computer Science undergraduate** at UET Peshawar passionate about crafting exceptional digital experiences. I specialize in building scalable web applications using the **MERN Stack** and creating beautiful cross-platform mobile apps with **Flutter**.
+I'm a **Computer Science Student** at Bangladesh passionate about crafting exceptional digital experiences. I specialize in building scalable web applications using the **MERN Stack** and creating beautiful cross-platform mobile apps with **Flutter**.
 
 My journey in tech revolves around:
 - 💡 Solving real-world problems through innovative technology
