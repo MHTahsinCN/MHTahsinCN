@@ -55,12 +55,12 @@
 
 I'm a Machine Learning Engineer passionate about building intelligent software that solves real-world problems. Currently, I'm focused on developing production-ready AI applications using Python, Machine Learning, and modern deployment practices. I believe that great AI products are built through strong engineering principles, continuous learning, and practical experimentation.
 
-- 🎓 Computer Science Student
-- 🤖 Machine Learning Enthusiast
-- 🧠 Future AI Engineer
-- 🌍 Based in Bangladesh
-- 💼 Open to AI & ML Freelance Opportunities
-- 📚 Learning every single day
+🎓 Computer Science Student
+🤖 Machine Learning Enthusiast
+🧠 Future AI Engineer
+🌍 Based in Bangladesh
+💼 Open to AI & ML Freelance Opportunities
+📚 Learning every single day
 
 </div>
 
