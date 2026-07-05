@@ -54,7 +54,7 @@ I'm a Machine Learning Engineer passionate about building intelligent software t
 
 🎓 Computer Science Student
 🤖 Machine Learning Enthusiast
-💼 Open to AI & ML Freelance Opportunities
+💼 Open to AI & ML Opportunities
 📚 Learning every single day
 
 </div>
