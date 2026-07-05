@@ -57,7 +57,6 @@ I'm a Machine Learning Engineer passionate about building intelligent software t
 
 🎓 Computer Science Student
 🤖 Machine Learning Enthusiast
-🧠 Future AI Engineer
 🌍 Based in Bangladesh
 💼 Open to AI & ML Freelance Opportunities
 📚 Learning every single day
