@@ -53,8 +53,14 @@
 
 <div align="center">
 
-I build production AI backends — streaming, sessions, cost tracking, auth — and the Next.js interfaces that make them shippable.<br/>
-Token-by-token streaming · Provider-agnostic LLM routing · MCP tool servers · Webhook pipelines · Real-time systems · Async task queues · AI-powered semantic search — deployed, documented, and delivered with Swagger docs on day one.
+I'm a Machine Learning Engineer passionate about building intelligent software that solves real-world problems. Currently, I'm focused on developing production-ready AI applications using Python, Machine Learning, and modern deployment practices. I believe that great AI products are built through strong engineering principles, continuous learning, and practical experimentation.
+
+- 🎓 Computer Science Student
+- 🤖 Machine Learning Enthusiast
+- 🧠 Future AI Engineer
+- 🌍 Based in Bangladesh
+- 💼 Open to AI & ML Freelance Opportunities
+- 📚 Learning every single day
 
 </div>
 
