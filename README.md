@@ -27,3 +27,160 @@
 ### Building Intelligent Systems that Solve Real Problems
 
 </div>
+
+
+
+# 🚀 About Me
+
+I'm a Machine Learning Engineer passionate about building intelligent software that solves real-world problems.
+
+Currently, I'm focused on developing production-ready AI applications using Python, Machine Learning, and modern deployment practices.
+
+I believe that great AI products are built through strong engineering principles, continuous learning, and practical experimentation.
+
+- 🎓 Computer Science Student
+- 🤖 Machine Learning Enthusiast
+- 🧠 Future AI Engineer
+- 🌍 Based in Bangladesh
+- 💼 Open to AI & ML Freelance Opportunities
+- 📚 Learning every single day
+
+
+# 🎯 2026 Mission
+
+✔ Build 25 End-to-End AI Projects
+
+✔ Master Machine Learning
+
+🔄 Deep Learning
+
+🔄 Large Language Models
+
+🔄 MLOps
+
+🔄 Agentic AI
+
+🔄 Cloud Deployment
+
+🔄 Open Source Contributions
+
+
+
+# 🧠 AI & Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+
+<img src="https://skillicons.dev/icons?i=opencv"/>
+
+</p>
+
+### Libraries
+
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-Learn
+- Seaborn
+
+
+# ⚙ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=flask"/>
+
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+</p>
+
+
+
+# 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
+
+</p>
+
+
+
+Python                 ██████████
+
+Data Science           ██████████
+
+Machine Learning       ██████████
+
+Deep Learning          ██████░░░░
+
+Computer Vision        █████░░░░░
+
+NLP                    ████░░░░░░
+
+LLMs                   ███░░░░░░░
+
+Agentic AI             ██░░░░░░░░
+
+MLOps                  ██░░░░░░░░
+
+Cloud                  ██░░░░░░░░
+
+
+
+# 🎬 Movie Recommendation System
+
+Content-Based Recommendation Engine built with Machine Learning.
+
+### Tech
+
+Python • Pandas • Scikit-Learn • Flask
+
+⭐ Features
+
+- Content-based filtering
+- Similarity Search
+- Web Interface
+- Model Deployment
+
+🔗 Repository
+
+🔗 Live Demo
+
+
+# 🌍 2026 Goals
+
+- [ ] Build 25 AI Projects
+- [ ] Publish an AI Python Package
+- [ ] Contribute to Open Source
+- [ ] Reach 500 GitHub Stars
+- [ ] Write Technical Articles
+- [ ] Work with International Clients
+
+
+# 📫 Connect With Me
+
+LinkedIn
+
+GitHub
+
+Portfolio (Coming Soon)
+
+Email
+
+
+
+<div align="center">
+
+### "Learning Never Stops. Building Never Ends."
+
+⭐ Thanks for visiting my profile!
+
+</div>
