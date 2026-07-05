@@ -24,12 +24,8 @@
     <img src="https://img.shields.io/badge/GitHub-MHTahsinCN-181717?style=for-the-badge&logo=github"/>
   </a>
 
-  <a href="www.linkedin.com/in/mhtahsin00">
+  <a href="https://www.linkedin.com/in/mhtahsin00/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-
-  <a href="mailto:mohiburtahsin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
