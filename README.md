@@ -38,11 +38,8 @@
 </div>
 
 ---
-
-> **Building Intelligent Systems that Solve Real-World Problems through Machine Learning and Artificial Intelligence.**
-
 <div align="center">
-
+> **Building Intelligent Systems that Solve Real-World Problems through Machine Learning and Artificial Intelligence.**
 </div>
 
 ---
